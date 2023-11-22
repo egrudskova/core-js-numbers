@@ -316,6 +316,7 @@ function getSumOfDigits(num) {
  *   16  => true
  *   15  => false
  */
+
 function isPowerOfTwo(num) {
   let number = num;
   if (number <= 0) {
